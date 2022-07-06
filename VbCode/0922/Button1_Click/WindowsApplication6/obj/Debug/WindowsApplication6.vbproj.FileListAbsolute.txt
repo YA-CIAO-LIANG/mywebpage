@@ -1,0 +1,22 @@
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\51y10\Documents\Visual Studio 2012\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojAssemblyReference.cache
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.cache
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.CoreCompileInputs.cache
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+E:\專一\專一\程式設計專一\程式設計專一\9月\0922\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
